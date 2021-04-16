@@ -1,0 +1,5 @@
+/opt/CLion/clion-2021.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled"
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/cmake-build-debug

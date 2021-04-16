@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Box.h
+SFML/Graphics.hpp
+-
+Cross.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Cross.h
+Zero.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Zero.h
+Opacity.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Opacity.h
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Cross.h
+Figure.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Figure.h
+SFML/Graphics.hpp
+-
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Figure.h
+SFML/Graphics.hpp
+-
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/GameState.h
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Laticce.h
+Figure.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Figure.h
+SFML/Graphics.hpp
+-
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+vector
+-
+Box.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Box.h
+Laticce.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Laticce.h
+Menu.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Menu.h
+GameState.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/GameState.h
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Menu.h
+Box.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Box.h
+GameState.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/GameState.h
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Opacity.h
+Figure.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Figure.h
+SFML/Graphics.hpp
+-
+
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Zero.h
+Figure.h
+/home/roman/Рабочий стол/2 курс/1 семестр/OOP/Курсовая работа/untitled/Figure.h
+SFML/Graphics.hpp
+-
+
